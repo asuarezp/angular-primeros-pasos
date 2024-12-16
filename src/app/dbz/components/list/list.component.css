@@ -1,0 +1,11 @@
+:host {
+  display: block;
+}
+
+.highlight {
+  background-color: lightblue;
+}
+
+.normal {
+  background-color: none;
+}
